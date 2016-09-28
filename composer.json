@@ -12,7 +12,5 @@
       "psr-4": {
         "AdiFaidz\\Clean\\": "src/"
       }
-    },
-    "minimum-stability": "dev",
-    "require": {}
+    }
 }
