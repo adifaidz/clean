@@ -13,5 +13,5 @@
         "AdiFaidz\\Clean\\": "src/"
       }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
